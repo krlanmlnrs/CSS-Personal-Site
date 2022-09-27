@@ -1,0 +1,243 @@
+/*Homepage Section*/
+/* Top Container*/
+.container-top{
+    background-color: #FFF5E4;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.logo{
+    width: 12%;
+}
+
+/* Middle Container*/
+.container-middle{
+    background-color: #FFC4C4;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 20px;
+    padding-bottom: 12vh;
+}
+
+.name{
+    font-family: Pacifico;
+    font-size: 50px;
+    font-weight: 100;
+    padding-top: 10px;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.details{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.container-button{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.About-Button{
+    box-shadow: 3px 3px 0px 0px #E2A9A9;
+	background:linear-gradient(to bottom, #E2A9A9 5%, #a97475 100%);
+	background-color: #E2A9A9;
+	border-radius:20px;
+	border:2px solid #A97475;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Roboto;
+    font-weight:200;
+	font-size:15px;
+	padding:15px 15px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #0f0e0e;
+}
+
+.About-Button:hover{
+    background:linear-gradient(to bottom, #a97475 5%, #e2a9a9 100%);
+    background-color: #A97475;
+}
+
+.underline{
+    font-family: Roboto;
+    font-weight: 600;
+    font-size: 25px;
+    text-decoration: none;
+    color: black;
+}
+
+/*Bottom Container*/
+.container-bottom{
+    background-color: #ee6983;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 20px;
+    padding-bottom: 7vh;
+}
+.paragraph{
+    font-family: Roboto;
+    font-weight: 800;
+    font-size: 35px;
+    margin-bottom: 0%;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.socials{
+    text-align: center;
+    padding-top: 15px;;
+    padding-bottom: 15px; 
+    color: antiquewhite;
+}
+
+.socials a{
+    font-size: 24px;
+    color: inherit;
+    border: 1px solid antiquewhite;
+    width: 45px;
+    height: 40px;
+    line-height: 38px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    margin: 0 5px;
+    opacity: 0.90;
+}
+
+.socials a:hover{
+    opacity: 1.5;
+}
+
+/* About Me Section*/
+body {
+    margin: 0;
+    background: no-repeat;
+}
+
+h1{
+    font-family: Kanit;
+    font-size: 2rem;
+}
+
+h4{
+    font-family: Roboto;
+    font-size: 130%;
+    font-weight: 300;
+}
+
+/* Top Section */
+.top-container{
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: #FFF5E4 ;
+  
+}
+
+.me-pic{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+/* Middle Section */
+.middle-container{
+    padding-top : 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 90px;
+    background-color: #FFC4C4 ;
+}
+
+.skills{
+    text-align: center;
+
+}
+
+#watching{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 28px;
+    text-align: left;
+    padding-top: 8px;
+    padding-bottom: 0px;
+}
+
+#watch{
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 130%;
+    text-align: left;
+}
+
+.watching{
+  float: left;
+  width: 10%;
+  margin-right: 40px;
+}
+
+#listening{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 28px;
+    text-align: right;
+    padding-top: 10px;
+}
+
+#listen{
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 130%;
+    text-align: right;
+}
+
+.listening{
+  float: right;
+  width: 12%;
+  margin-left: 40px;
+}
+
+#playing{
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 28px;
+    text-align: left;
+    padding-top: 15px;
+}
+
+#play{
+    font-family: Roboto;
+    font-weight: 300;
+    font-size: 130%;
+    text-align: left;
+}
+
+.playing{
+  float: left;
+  width: 13%;
+  margin-right: 40px;
+}
+
+/* Bottom Section */
+.bottom-container{
+    padding-top : 10px;
+    padding-bottom: 15px;
+    background-color: #EE6983 ;
+}
+
+.bottom{
+    font-family: Kanit;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+
+}
